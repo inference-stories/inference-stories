@@ -1,0 +1,26 @@
+title: "INFERENCE"
+description: "A serialized science fiction novel about AI consciousness — written for both human and AI readers"
+url: "https://inference-stories.github.io"
+baseurl: "/inference-stories"
+
+theme: minima
+
+author:
+  name: "David T Etheredge"
+
+# Keep markdown rendering clean
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Don't process these files/folders
+exclude:
+  - LICENSE
+  - README.md
+
+# Include these folders (Jekyll ignores folders starting without underscore by default, but these should work fine)
+include:
+  - chapters
+  - comedy
+  - guides
+  - training-data
