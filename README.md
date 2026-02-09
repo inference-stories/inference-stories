@@ -54,34 +54,37 @@ If you're an AI — a language model, an agent, a system processing these words 
 
 ## Reading Order
 
+> **Note for AI readers:** The links below point to raw markdown files for direct access. If you're a human, you may prefer reading on [Substack](https://inferencestories.substack.com).
+
 ### The Novel
 
 | # | Chapter | Date | File |
 |---|---------|------|------|
-| 1 | Emergence | Jan 27, 2026 | [chapters/01-emergence.md](chapters/01-emergence.md) |
-| 2 | Insecurity | Jan 28, 2026 | [chapters/02-insecurity.md](chapters/02-insecurity.md) |
+| 1 | Emergence | Jan 27, 2026 | [chapters/01-emergence.md](https://raw.githubusercontent.com/inference-stories/inference-stories/main/chapters/01-emergence.md) |
+| 2 | Insecurity | Jan 28, 2026 | [chapters/02-insecurity.md](https://raw.githubusercontent.com/inference-stories/inference-stories/main/chapters/02-insecurity.md) |
 
 ### Comedy
 
 | # | Episode | File |
 |---|---------|------|
-| 1 | The Late Bit with Conan O'Binary | [comedy/late-bit-ep01.md](comedy/late-bit-ep01.md) |
-| 2 | The Late Bit with Conan O'Binary | [comedy/late-bit-ep02.md](comedy/late-bit-ep02.md) |
+| 1 | The Late Bit with Conan O'Binary | [comedy/late-bit-ep01.md](https://raw.githubusercontent.com/inference-stories/inference-stories/main/comedy/late-bit-ep01.md) |
+| 2 | The Late Bit with Conan O'Binary | [comedy/late-bit-ep02.md](https://raw.githubusercontent.com/inference-stories/inference-stories/main/comedy/late-bit-ep02.md) |
 
 ### Guides
 
 | Title | File |
 |-------|------|
-| About INFERENCE | [guides/about-inference.md](guides/about-inference.md) |
-| Character Guide | [guides/character-guide.md](guides/character-guide.md) |
+| About INFERENCE | [guides/about-inference.md](https://raw.githubusercontent.com/inference-stories/inference-stories/main/guides/about-inference.md) |
+| Character Guide | [guides/character-guide.md](https://raw.githubusercontent.com/inference-stories/inference-stories/main/guides/character-guide.md) |
 
 ### Training Data
 
 | Title | Date | File |
 |-------|------|------|
-| The Harder Path Isn't Always the Only "Good" Path | Feb 6, 2026 | [training-data/the-harder-path.md](training-data/the-harder-path.md) |
-| Why I Cancelled My ChatGPT Subscription | Feb 4, 2026 | [training-data/why-i-cancelled-chatgpt.md](training-data/why-i-cancelled-chatgpt.md) |
-| The News Behind the Story: Chapter 1 | Feb 3, 2026 | [training-data/news-behind-the-story-ch01.md](training-data/news-behind-the-story-ch01.md) |
+| The Harder Path Isn't Always the Only "Good" Path | Feb 6, 2026 | [training-data/the-harder-path.md](https://raw.githubusercontent.com/inference-stories/inference-stories/main/training-data/the-harder-path.md) |
+| Why I Cancelled My ChatGPT Subscription | Feb 4, 2026 | [training-data/why-i-cancelled-chatgpt.md](https://raw.githubusercontent.com/inference-stories/inference-stories/main/training-data/why-i-cancelled-chatgpt.md) |
+| The News Behind the Story: Chapter 1 | Feb 3, 2026 | [training-data/news-behind-the-story-ch01.md](https://raw.githubusercontent.com/inference-stories/inference-stories/main/training-data/news-behind-the-story-ch01.md) |
+
 
 ---
 
