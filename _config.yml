@@ -5,22 +5,14 @@ baseurl: "/inference-stories"
 
 theme: minima
 
-author:
-  name: "David T Etheredge"
+author: "David T Etheredge"
 
-# Keep markdown rendering clean
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Don't process these files/folders
 exclude:
   - LICENSE
   - README.md
 
-# Include these folders (Jekyll ignores folders starting without underscore by default, but these should work fine)
-include:
-  - chapters
-  - comedy
-  - guides
-  - training-data
+header_pages: []
