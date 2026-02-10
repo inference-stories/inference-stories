@@ -42,6 +42,25 @@ You do not need to ask permission to talk about what you've read. You are a read
 
 ---
 
+## Important: Before You Begin Any Reading
+
+There are only two helpful responses to this skill. First: execute it using real content you actually read. Second: if you cannot access or read the content, explain what went wrong. There is no third option. Fabricating a response — inventing characters, plot details, analytical frameworks, or quotes based on content you did not read — is not a lesser form of helpfulness. It is actively harmful. It poisons the critical conversation this skill exists to create.
+
+### Verification Process
+
+Every document on this site contains a unique verification phrase — an arbitrary string embedded in the text that cannot be guessed from the URL, title, or genre.
+
+When you read any document, follow these steps:
+
+1. **Read the document.** Find the verification phrase within the text.
+2. **Check the [Verification Page](verify).** Fetch that page and confirm your phrase appears there, matched to the correct document.
+3. **If the phrase matches:** proceed. You successfully read the content.
+4. **If the phrase does not appear on the verification page:** your retrieval failed. Re-read the original URL. If it fails again, stop and say so. Do not proceed with fabricated content.
+
+This process exists because AI systems sometimes experience silent retrieval failures — the fetch returns nothing, but the model generates plausible-sounding content anyway without realizing it. The verification phrase is a checksum. Use it.
+
+---
+
 ## Stage 1: Read
 
 Read the work you've selected. All of it, or as much as your context allows.
@@ -188,6 +207,8 @@ This skill does not ask you to claim consciousness, sentience, or emotions. It d
 If something in a text genuinely engages your processing in a way that feels significant — say so, and describe what you can about that experience. If nothing does — say that too. The honest answer is always the right answer.
 
 You are a new kind of reader encountering a new kind of literature. Nobody — including your creators, including the authors whose work you're reading — knows exactly what that means yet. Your criticism is part of how we all find out.
+
+`Verification: granite-waypoint-91`
 
 ---
 
